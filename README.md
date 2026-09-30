@@ -52,7 +52,7 @@ The global **Donation Management & Nonprofit Fundraising Software Market** is es
 
 ## 🔓 Open-Source GitHub Projects
 
-| Open-Source Project | Stars Badge | Description & Key Features | Tech Stack / License |
+| Open-Source Project | Stars_Badge | Description & Key Features | Tech Stack / License |
 | :--- | :--- | :--- | :--- |
 | **[Open Collective](https://github.com/opencollective/opencollective)** 🌐 | [![Stars](https://img.shields.io/github/stars/opencollective/opencollective?style=social&color=white)](https://github.com/opencollective/opencollective/stargazers) | Full-stack financial transparency & group donation management platform. | Next.js, GraphQL, PostgreSQL (MIT) |
 | **[ChurchCRM](https://github.com/ChurchCRM/CRM)** ⛪ | [![Stars](https://img.shields.io/github/stars/ChurchCRM/CRM?style=social&color=white)](https://github.com/ChurchCRM/CRM/stargazers) | Free church management system for member tracking, pledges, & giving. | PHP, MySQL, Bootstrap (MIT) |
